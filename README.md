@@ -4,7 +4,7 @@ A responsive and interactive navigation bar for a modern photography studio webs
 
 ## 🌐 Webpage Preview
 
-![Navbar Preview](image.png)
+![Navbar Preview](Image.png)
 
 ## 🔍 Features
 
